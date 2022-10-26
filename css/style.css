@@ -45,7 +45,7 @@ ul li {
 /*----------------------------------------------*/
 
 .bg-content {
-    background-image: url('img/background/1.png');
+    background-image: url(../img/background/1.png);
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center;
