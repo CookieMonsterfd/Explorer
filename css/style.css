@@ -51,10 +51,15 @@ ul li {
     background-position:center;
     min-width: 100%;
     min-height: 100%;
+    flex: 1 1 auto;
 }
 
 
 /*----------------------------------------------*/
+
+.page {
+    
+}
 
 .page__main {
 }
